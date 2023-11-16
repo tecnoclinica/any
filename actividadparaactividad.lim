@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.4">
+    <config>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >CORRECTO</correcto>
+        <incorrecto son="" modo="1" >INCORRECTO</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>14</tipo>
+              <peza imaxe="" texto="herramientas" son="">imagen_1.jpg</peza>
+              <peza imaxe="" texto="configuraciones " son="">imagen2.jpg</peza>
+              <peza imaxe="" texto="tapabocas" son="">imagen3.jpg</peza>
+              <cfondo>00FF00</cfondo>
+        </paxina>
+        <paxina id="2" >
+              <tipo>3</tipo>
+              <imaxe>placabase-.jpg</imaxe>
+              <filas>9</filas>
+              <columnas>9</columnas>
+              <reixa>0</reixa>
+            <forma>0</forma>
+        </paxina>
+        <paxina id="3" >
+              <tipo>10</tipo>
+              <pregunta res="preventivo y correctivo">¿Que tipos de mantenimiento hay?</pregunta>
+              <pregunta res="manilla antiestatica ">¿Que evita que aga una sobrecarga electrica cuando destamos un computador?</pregunta>
+              <pregunta res="correctivo">¿Que tipo de mantenimiento es en el que se cambias partes dañadas del PC o computador?</pregunta>
+              <pregunta res="pasta termica ">¿Que implemento se aplica sobre el procesador?</pregunta>
+        </paxina>
+    </libro>
+</lim>

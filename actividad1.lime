@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.3">
+    <config>
+          <recursos>$D:\edilim564\</recursos>
+        <idioma>0</idioma>
+        <licencia></licencia>
+          <corfondo>ffffff</corfondo>
+        <cormensaxes>000000</cormensaxes>
+          <cortexto>000000</cortexto>
+          <informe>0</informe>
+          <botonson>0</botonson>
+          <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="\" modo="1" >CORRECTO</correcto>
+        <incorrecto son="\" modo="1" >INCORRECTO</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>14</tipo>
+              <peza imaxe="..\edilim564\imagen 1.jpg" texto="herramientas" son="\">..\edilim564\imagen 1.jpg</peza>
+              <peza imaxe="..\edilim564\imagen2.jpg" texto="configuraciones " son="\">..\edilim564\imagen2.jpg</peza>
+              <peza imaxe="..\edilim564\imagen3.jpg" texto="tapabocas" son="\">..\edilim564\imagen3.jpg</peza>
+              <cfondo>00FF00</cfondo>
+        </paxina>
+    </libro>
+</lim>
